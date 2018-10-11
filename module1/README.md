@@ -1,3 +1,3 @@
 # Test
 
-(script)[./a.sh]
+[script](./a.sh)
